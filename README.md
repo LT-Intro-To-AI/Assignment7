@@ -9,7 +9,7 @@ urlcolor: cyan
 
 In this assignment, we will experiment with a few simple neural networks. The idea is to obtain preliminary answers to questions like "How quickly can a network be trained?" "How reliable (or repeatable) is the training?" and "How accurate is the resulting network?"
 
-For this assignment, you will do some work at the python interpreter. Save a summary of what you do (python commands and all) in a file called `a6.py`. You will be submitting this file at the end.
+For this assignment, you will do some work at the python interpreter. Save a summary of what you do (python commands and all) in a file called `a7.py`. You will be submitting this file at the end.
 
 You will be using the `neural.py` file that was included with this assignment. At the top of your a7.py file, be sure to include the following: `from neural import *`. The asterisk means import everything.
 
